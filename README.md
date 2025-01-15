@@ -8,12 +8,16 @@ Car Details Screen
 Booking Screen
 Profile Screen
 Booking History Screen
+
+
 Backend (Node.js with Express.js)
 User Authentication
 Car Management (CRUD)
 Booking Management
 Payment Gateway Integration
 Admin Dashboard
+
+
 Database (MongoDB)
 Users Collection
 Cars Collection
